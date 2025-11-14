@@ -1,0 +1,5 @@
+{
+  "tests/test_auth_routes.py": true,
+  "tests/test_summarize.py": true,
+  "tests/test_security.py::test_hash_and_verify": true
+}
