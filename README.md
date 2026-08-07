@@ -80,4 +80,3 @@ pip install -r requirements.txt
 pytest -q
 ```
 
-If you want, I can add CI workflow to run tests on push.
