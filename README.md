@@ -196,23 +196,6 @@ Automated backend tests are implemented with `pytest` to validate application be
 
 ---
 
-## Screenshots
-
-> Add application screenshots here before sharing the repository with recruiters.
-
-### Main Application
-
-![LexiSummarize Main Interface](docs/main-interface.png)
-
-### AI Summary
-
-![AI Summarization](docs/summary-result.png)
-
-### Vocabulary Analysis
-
-![Vocabulary Analysis](docs/vocabulary-analysis.png)
-
----
 
 ## Project Structure
 
