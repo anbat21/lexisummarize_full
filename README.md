@@ -376,5 +376,3 @@ Building LexiSummarize strengthened my experience with:
 
 More importantly, the project helped me understand that adding AI to an application involves more than calling a model. The surrounding software architecture, validation, user experience, reliability, and data flow are equally important.
 
-LinkedIn:
-https://www.linkedin.com/in/batandinh
